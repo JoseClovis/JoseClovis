@@ -1,6 +1,6 @@
 <h1>Olá sou JoseClovis</h1>
 - 📓 Estudante de programação</br>
-- ✨ Sistemas para internet</br>
+- ✨ Analise e Desenvolvimento de Sistema | Unifametro</br>
 - ❤️ Programação</br>
 <hr/>
 
